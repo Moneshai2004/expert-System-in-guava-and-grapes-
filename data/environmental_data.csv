@@ -1,0 +1,6 @@
+Temperature,Humidity,Soil_pH,Region,Yield
+25.2,60.5,6.5,Nashik,0.030
+24.8,62.1,6.8,Coimbatore,0.025
+26.1,58.3,6.4,Sangli,0.032
+27.0,55.8,6.7,Theni,0.027
+23.5,65.0,6.3,Salem,0.028
